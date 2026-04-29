@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Explicit Cost Analysis of Toom--Cook Multiplication for Incomplete NTT in Lattice-based Cryptography"
+authors:
+  - family-names: Oku
+    given-names: Sakura
+  - family-names: Kudo
+    given-names: Momonari
+year: 2026
+license: MIT
