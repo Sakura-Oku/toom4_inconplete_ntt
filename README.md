@@ -1,4 +1,4 @@
-# Explicit Cost Analysis of Toom–Cook Multiplication for Incomplete NTT
+# Explicit Cost Analysis of Toom–4 Multiplication for Incomplete NTT
 
 This repository contains the reference implementation for the paper:
 
